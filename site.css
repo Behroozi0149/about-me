@@ -1,13 +1,23 @@
 p{
     font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
-    color: rgba(255, 255, 255, 0.846);
+    font-size: 100%;
+    color: rgba(195, 220, 231, 0.73);
+    
 
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
+    text-align: center;
+    font-size: 550%;
+    color: rgb(16, 23, 224);
     
+}
+h2{
+    font-size: 300%;
+    text-align: center;
+    color: rgb(16, 23, 224);
+    font-family: 'Courier New', Courier, monospace;
 }
 body{
     background-color: rgba(0, 0, 0, 0.852);
