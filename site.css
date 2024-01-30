@@ -1,24 +1,27 @@
-p{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 100%;
-    color: rgba(195, 220, 231, 0.73);
-    
-
+body {
+    background-color: rgba(0, 0, 0, 0.852);
 }
-h1{
+
+h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
     text-align: center;
     font-size: 550%;
-    color: rgb(16, 23, 224);
-    
+    color: rgba(16, 23, 224, 0.849);
+
 }
-h2{
+
+h2 {
     font-size: 300%;
     text-align: center;
-    color: rgb(16, 23, 224);
+    color: rgba(16, 23, 224, 0.849);
     font-family: 'Courier New', Courier, monospace;
 }
-body{
-    background-color: rgba(0, 0, 0, 0.852);
+
+p {
+    font-family: fantasy;
+    font-size: 150%;
+    color: rgba(132, 212, 247, 0.593);
+    padding: 5px;
+
 }
