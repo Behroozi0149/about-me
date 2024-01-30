@@ -25,3 +25,8 @@ p {
     padding: 5px;
 
 }
+a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 50%;
+}
