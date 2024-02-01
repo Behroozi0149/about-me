@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(0, 0, 0, 0.847);
+    background-color: rgba(63, 61, 61, 0.847);
 }
 
 h1 {
@@ -7,21 +7,21 @@ h1 {
     font-size: x-large;
     text-align: center;
     font-size: 550%;
-    color: rgba(16, 23, 224, 0.849);
+    color: rgba(234, 234, 244, 0.849);
 
 }
 
 h2 {
     font-size: 300%;
     text-align: center;
-    color: rgba(16, 23, 224, 0.849);
+    color: rgba(234, 234, 244, 0.849);
     font-family: 'Courier New', Courier, monospace;
 }
 
 h3 {
     font-size: 300%;
     text-align: center;
-    color: rgba(16, 23, 224, 0.849);
+    color: rgba(234, 234, 244, 0.849);
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -40,5 +40,5 @@ ol {
 }
 
 a {
-    color: rgb(12, 119, 0);
+    color: rgb(243, 196, 9);
 }
