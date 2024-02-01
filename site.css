@@ -38,3 +38,7 @@ ol {
     font-size: 150%;
     color: rgba(93, 228, 78, 0.832);
 }
+
+a {
+    color: rgb(12, 119, 0);
+}
