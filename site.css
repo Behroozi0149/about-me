@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(0, 0, 0, 0.852);
+    background-color: rgba(0, 0, 0, 0.847);
 }
 
 h1 {
@@ -18,10 +18,23 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h3 {
+    font-size: 300%;
+    text-align: center;
+    color: rgba(16, 23, 224, 0.849);
+    font-family: 'Courier New', Courier, monospace;
+}
+
 p {
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 150%;
-    color: rgba(132, 212, 247, 0.593);
+    color: rgba(93, 228, 78, 0.832);
     padding: 5px;
 
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    color: rgba(93, 228, 78, 0.832);
 }
