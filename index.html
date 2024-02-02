@@ -10,11 +10,17 @@
 </head>
 
 <body>
-    <p><a href="#a1">jump to about me</a></p>
-    <p></p>
-    <p><a href="#a2">jump to languages that I know</a></p>
-    <p></p>
-    <p><a href="#a3">jump to my interests</a></p>
+    <button onclick="links">links</button>
+    <p id="demo"></p>
+    <script>
+        function links() {
+            document.getElementById('demo').innerHTML =
+                '<a href="#a1">jump to about me</a><br>' +
+                '<a href="#a2">jump to languages that I know</a><br>' +
+                '<a href="#a3">jump to my interests</a>';
+        }
+        document.querySelector('button').onclick = links;
+    </script>
     <h1 id="a1">about tahabehroozi</h1>
     <p>Hello, my name is <abbr title="An eleven-year-old programmer from Iran"> taha.</abbr></p>
     <p>love programming.</p>
