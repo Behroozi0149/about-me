@@ -40,5 +40,17 @@ ol {
 }
 
 a {
-    color: rgb(243, 196, 9);
+    color: rgba(243, 196, 9, 0.682);
+    font-size: 155%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+
+}
+button{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255, 255, 255, 0.113);
+    color: white;
+    font-size: large;
+
 }
